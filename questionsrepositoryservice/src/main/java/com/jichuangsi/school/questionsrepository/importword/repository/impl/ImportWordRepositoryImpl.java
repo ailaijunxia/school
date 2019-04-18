@@ -5,6 +5,7 @@ import com.jichuangsi.school.questionsrepository.entity.SelfQuestions;
 import com.jichuangsi.school.questionsrepository.exception.QuestionRepositoryServiceException;
 import com.jichuangsi.school.questionsrepository.importword.repository.IImportWordRepository;
 import com.jichuangsi.school.questionsrepository.model.transfer.TransferTeacher;
+import org.springframework.stereotype.Repository ;
 import org.springframework.data.mongodb.core.MongoTemplate;
 
 /**
