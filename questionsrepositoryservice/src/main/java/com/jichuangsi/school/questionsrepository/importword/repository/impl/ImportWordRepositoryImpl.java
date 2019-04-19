@@ -11,6 +11,7 @@ import org.springframework.data.mongodb.core.MongoTemplate;
 /**
  * Created by 窝里横 on 2019/4/16.
  */
+@Repository
 public class ImportWordRepositoryImpl implements IImportWordRepository {
 
 
